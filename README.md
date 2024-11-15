@@ -24,16 +24,3 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 ```bash
 git clone https://github.com/LuisGerardoTequia/Practica_PostgreSQL.git
 cd Practica_PostgreSQL
-
-
-### 📌 Explicación:
-1. **Introducción**: Presenta el proyecto y los objetivos.
-2. **Requisitos**: Enumera las herramientas necesarias para ejecutar el proyecto.
-3. **Instalación y Configuración**: Instrucciones paso a paso para configurar la base de datos.
-4. **Estructura**: Explica las tablas y vistas creadas.
-5. **Funcionalidades**: Detalla los procedimientos almacenados, triggers, y análisis avanzados.
-6. **Consultas y Análisis**: Muestra ejemplos de consultas SQL.
-7. **Contribuciones**: Explica cómo colaborar con el proyecto.
-8. **Licencia**: Incluye una sección de licencia (puedes agregar un archivo `LICENSE` si lo deseas).
-
-Esta documentación te ayudará a mantener un repositorio bien organizado y entendible para cualquier persona interesada en aprender o colaborar.
