@@ -1,5 +1,0 @@
-git add scripts/init_db.sql
-git add scripts/populate_data.sql
-git add scripts/create_materialized_view.sql
-git add scripts/stored_procedures.sql
-git add scripts/triggers.sql
