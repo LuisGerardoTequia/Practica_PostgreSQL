@@ -1,6 +1,5 @@
-git init
-git add practica_sales_db.sql
-git commit -m "Inicialización de práctica en PostgreSQL"
-git branch -M main
-git remote add origin <https://github.com/LuisGerardoTequia/Practica_PostgreSQL>
-git push -u origin main
+git add scripts/init_db.sql
+git add scripts/populate_data.sql
+git add scripts/create_materialized_view.sql
+git add scripts/stored_procedures.sql
+git add scripts/triggers.sql
