@@ -32,7 +32,3 @@ Este documento complementa el `README.md` y ofrece una visión más detallada de
 
 8. **Licencia**:
    - Indica que el proyecto está bajo la licencia MIT y recomienda revisar el archivo `LICENSE` para detalles adicionales.
-
----
-
-Este documento adicional complementa y profundiza cada sección para una comprensión más clara y detallada del proyecto.
