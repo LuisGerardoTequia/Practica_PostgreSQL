@@ -14,3 +14,6 @@ Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
 ```bash
 git clone https://github.com/LuisGerardoTequia/Practica_PostgreSQL.git
 cd Practica_PostgreSQL
+
+-----
+### Listo ya tienes las bases para aplicar un proyecto en PostgreSQL :)
